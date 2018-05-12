@@ -1,0 +1,34 @@
+_repo: A-Harmony-of-the-Gospels-for-Students-of-the-Life-of-ChristBased-on-the-Broadus-Harmony-in-th__36264
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Broadus, John Albert
+    birthdate: 1827
+    deathdate: 1895
+    gutenberg_agent_id: '44149'
+    url: http://www.gutenberg.org/2009/agents/44149
+  - agent_name: Robertson, A. T.
+    alias: Robertson, Archibald Thomas
+    birthdate: 1863
+    deathdate: 1934
+    gutenberg_agent_id: '38167'
+    url: http://www.gutenberg.org/2009/agents/38167
+description: ''
+gutenberg_issued: '2011-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Gospels -- Harmonies'
+- !lcc 'BS'
+title: 'A Harmony of the Gospels for Students of the Life of Christ
+
+  Based on the Broadus Harmony in the Revised Version'
+url: http://www.gutenberg.org/ebooks/36264
